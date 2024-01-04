@@ -1,10 +1,10 @@
 # Jobsheet Week 12 - Ashyncronous
 
-Achmad Aly Abdulloh
+Aditya kuncara bakti
 
-2141720039
+2041720231
 
-02
+04
 
 # Praktikum 1: Mengunduh Data dari Web Service (API)
 
